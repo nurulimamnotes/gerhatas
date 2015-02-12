@@ -1,0 +1,91 @@
+<?php
+/**
+ * The template for displaying product content in the single-product.php template
+ *
+ * Override this template by copying it to yourtheme/woocommerce/content-single-product.php
+ *
+ * @author 		WooThemes
+ * @package 	WooCommerce/Templates
+ * @version     1.6.4
+ */
+
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+$is_ajax = isset( $_GET['doing_ajax'] ) && $_GET['doing_ajax'];
+
+global $product, $woocommerce, $yith_wcwl_init;
+// add_action( 'woocommerce_after_add_to_cart_button', 'yit_product_other_actions' );
+remove_action( 'woocommerce_share', array( $woocommerce->integrations->integrations['sharethis'], 'sharethis_code' ) );
+
+if( !yit_get_option( 'shop-enabled' ) ) {
+    add_action( 'woocommerce_single_product_summary', 'yit_product_other_actions', 35 );
+}
+
+$style = yit_get_option('product-single-layout', 'layout-1');
+?>
+
+<?php
+	/**
+	 * woocommerce_before_single_product hook
+	 *
+	 * @hooked woocommerce_show_messages - 10
+	 */
+    if ( ! $is_ajax ) do_action( 'woocommerce_before_single_product' );
+?>
+
+<div itemscope itemtype="http://schema.org/Product" id="product-<?php the_ID(); ?>" <?php post_class( 'product-' . $style ); ?>>
+
+	<?php
+		/**
+		 * woocommerce_show_product_images hook
+		 *
+		 * @hooked woocommerce_show_product_sale_flash - 10
+		 * @hooked woocommerce_show_product_images - 20
+		 */
+
+		do_action( 'woocommerce_before_single_product_summary' );   
+	?>
+
+        <div class="summary entry-summary">
+
+            <?php
+                if ( ! is_shop_enabled() || ! yit_get_option( 'shop-detail-show-price' ) )  remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_price', 15 );
+                if ( ! is_shop_enabled() || ! yit_get_option( 'shop-detail-add-to-cart' ) ) remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_add_to_cart', 35 );
+
+                /**
+                 * woocommerce_single_product_summary hook
+                 *
+                 * @hooked woocommerce_template_single_title - 5
+                 * @hooked woocommerce_template_single_price - 10
+                 * @hooked woocommerce_template_single_excerpt - 20
+                 * @hooked woocommerce_template_single_add_to_cart - 30
+                 * @hooked woocommerce_template_single_meta - 40
+                 * @hooked woocommerce_template_single_sharing - 50
+                 */
+
+
+            do_action( 'woocommerce_single_product_summary' );
+
+            ?>
+
+        </div><!-- .summary -->
+
+        <?php if ( ! $is_ajax ) : ?>
+
+            <div class="after-product-summary"><?php
+
+                /**
+                 * woocommerce_after_single_product_summary hook
+                 *
+                 * @hooked woocommerce_output_product_data_tabs - 10
+                 * @hooked woocommerce_output_related_products - 20
+                 */
+                do_action( 'woocommerce_after_single_product_summary' ); ?>
+
+            </div>
+
+        <?php endif; ?>
+
+</div><!-- #product-<?php the_ID(); ?> -->
+
+<?php if ( ! $is_ajax ) do_action( 'woocommerce_after_single_product' ); ?>

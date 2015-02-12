@@ -1,0 +1,262 @@
+/* ============================================================
+   Commons
+   ========================================================= */
+#tagline,
+#header,
+#header #nav .submenu,
+#copyright,
+#copyright p,
+.yit_cart_widget a.button:hover {
+	color: #fff; }
+
+#header,
+#header #nav ul,
+#header #nav .submenu {
+	background-color: #4d8391; }
+
+#page-meta #yit-breadcrumb, #page-meta #yit-breadcrumb a, .breadcrumbs span {
+	color: #8b8c8c; }
+
+.testimonial blockquote,
+.woo_cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .cart_list li.empty,
+.testimonial .testimonial-name p.name {
+	color: #8B989C; }
+
+#header-sidebar,
+#header-content .header-content-right {
+	border-color: #6CA6B6; }
+
+/* Links Color */
+#topbar a,
+#header #nav li a,
+#copyright a,
+.readmore-wrapper a.read-more:hover {
+	color: #fff; }
+
+.button,
+.sidebar .button,
+.pricing_box p.button a,
+.price-table .body .more a,
+.btn.btn-button,
+.woocommerce ul.products li.product.grid .buttons-list-wrapper a.button,
+.woocommerce div.product form.cart .button,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce #respond input#submit,
+.woocommerce #content input.button,
+.woocommerce-page a.button,
+.woocommerce-page button.button,
+.woocommerce-page input.button,
+.woocommerce-page #respond input#submit,
+.woocommerce-page #content input.button,
+.woocommerce .wishlist_table .product-add-to-cart a.add_to_cart.button.alt,
+#respond #commentsubmit,
+.error-404-text p a.button,
+.pricing_box p.button a,
+.sidebar .widget_product_search #searchform #searchsubmit,
+.newsletter-section .contact-form .submit-button input.sendmail,
+.woocommerce ul.products li.product.grid .product-main-meta .grid-add-to-cart a.button,
+#portfolio.columns .read-more,
+.cart-empty p a,
+#portfolio a.read-more,
+.readmore-wrapper a.button,
+#respond #commentsubmit {
+	font-size: 18px;
+	background-color: #5ea4b6;
+	color: #FFF; }
+
+.button:hover,
+.sidebar .button:hover,
+.pricing_box p.button a:hover,
+.price-table .body .more a:hover,
+.btn.btn-button:hover,
+.woocommerce ul.products li.product.grid .buttons-list-wrapper a.button:hover,
+.woocommerce div.product form.cart .button:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce #content input.button:hover,
+.woocommerce-page a.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce-page #respond input#submit:hover,
+.woocommerce-page #content input.button:hover,
+.woocommerce .wishlist_table .product-add-to-cart a.add_to_cart.button.alt:hover,
+#respond #commentsubmit:hover,
+.error-404-text p a.button:hover,
+.pricing_box p.button a:hover,
+.sidebar .widget_product_search #searchform #searchsubmit:hover,
+.newsletter-section .contact-form .submit-button input.sendmail:hover,
+.woocommerce ul.products li.product.grid .product-main-meta .grid-add-to-cart a.button:hover,
+#portfolio.columns .read-more:hover,
+.cart-empty p a:hover,
+#portfolio a.read-more:hover,
+.readmore-wrapper a.button:hover,
+#respond #commentsubmit:hover {
+	background-color: #318DA5; }
+
+.widget h3,
+h3#comments-title,
+h3#trackbacks,
+h3#reply-title span,
+.logged-in-as a:hover,
+.the-content-post a:hover,
+.comment-body a:hover,
+.woocommerce h2 {
+	color: #4D8391; }
+
+#topbar a:hover,
+#header #nav a:hover,
+#header #nav > ul > li.current_page_item > a,
+#header #nav > ul > li.current-item > a,
+#header #nav > ul > li.current_page_ancestor > a,
+#header #nav > ul > li.current_page_parent > a,
+#header #nav > ul > li.current-item-parent > a,
+#header #nav .submenu a:hover,
+#header #nav .submenu li.current_page_item a,
+#header #nav .submenu li.current-item a,
+#copyright a:hover,
+#page-meta #yit-breadcrumb a.no-link,
+#page-meta #yit-breadcrumb a:hover,
+h2.post-title a:hover,
+.logged-in-as a,
+a.comment-reply-link:hover,
+.the-content-post a,
+.comment-body a,
+.comment-meta a.date:hover,
+.testimonial p.website,
+a.cart-subtotal:hover {
+	color: #b9b23a; }
+
+/* Typography */
+#header,
+#footer,
+#copyright,
+.testimonial blockquote,
+.testimonial .testimonial-name p.name {
+	font-family: 'Open Sans', sans-serif; }
+
+#nav,
+.blog-meta,
+.woo_cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .cart_list li.empty,
+.single-product.woocommerce #primary div.product .woocommerce-tabs ul.tabs li a,
+.widget ul.product_list_widget > li > a,
+.product_list_widget li,
+.cart_wrapper .total {
+	font-family: 'Rancho', 'Open Sans', sans-serif; }
+
+.testimonial blockquote,
+.woo_cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .cart_list li.empty {
+	font-style: normal; }
+
+.testimonial blockquote,
+.testimonial .testimonial-name p.name,
+.woo_cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .cart_list li.empty {
+	font-weight: 700; }
+
+.widget h3,
+.testimonial blockquote {
+	font-size: 18px; }
+
+.testimonial .testimonial-name p.name,
+.testimonial p.website,
+.woo_cart .yit_cart_widget.widget_shopping_cart .cart_wrapper .cart_list li.empty {
+	font-size: 15px; }
+
+.woocommerce-page ul.product_list_widget li a,
+.single-product.woocommerce #primary div.product .woocommerce-tabs ul.tabs li a {
+	font-size: 14px; }
+
+#copyright p {
+	font-size: 12px; }
+
+
+
+/* Text Transform */
+#nav {
+	text-transform: uppercase }
+
+/* Colors */
+#primary *,
+#primary *:before,
+#primary *:after,
+.woo_cart * {
+	border-color: #DFDFDF!important; }
+
+#content-blog {
+	border-color: #828181; }
+
+/* Background */
+h3#comments-title span,
+h3#reply-title span,
+.testimonials-flexslider h3.slider-title span,
+h3.header-single-product-title,
+.header-single-product-price,
+.minus,
+.plus {
+	background: #fff; }
+
+/* ============================================================
+   Base
+   ========================================================= */
+body {
+	background: #d9e6ec url(../../../images/body_bg.jpeg) repeat-x center top; }
+
+/* ============================================================
+   Header
+   ========================================================= */
+#header {
+	border-color: #6ca6b6;
+	background-image: url(../../../images/backgrounds/top-header.png);
+	background-repeat: repeat-x;
+	background-position: left top; }
+
+/* Top Bar */
+#topbar,
+#topbar a {
+	font-size: 11px;
+	background: transparent; }
+
+#topbar a {
+	color: #fff; }
+
+/* ============================================================
+   Blog
+   ========================================================= */
+h2.post-title {
+	font-size: 24px;
+	text-transform: uppercase; }
+
+h2.post-title a {
+	color: #828181; }
+
+/* ============================================================
+   Sidebar
+   ========================================================= */
+
+/* ============================================================
+   Woocommerce
+   ========================================================= */
+.button.checkout,
+.woocommerce-page a.button.checkout,
+.woocommerce a.button.checkout,
+.checkout-button.button.alt,
+.btn.btn-alternative,
+.woocommerce .cart-collaterals input[type=submit].button.checkout-button {
+	background-color: #B9AF04; }
+
+ul.products li.first {
+	margin-left: 20px; }
+
+#header-content p.buttons a.button.cart,
+#header-content a.button,
+#header-content p.buttons a.button.checkout {
+	padding: 4px 7px; }
+
+/* ============================================================
+   Footer
+   ========================================================= */
+#copyright {
+	background: #5893A3 url(../../../images/bg_footer.png) repeat-x left bottom; }

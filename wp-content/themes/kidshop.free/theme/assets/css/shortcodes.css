@@ -1,0 +1,201 @@
+/* quote */
+blockquote {
+    border: none;
+}
+/* icon list */
+ul.the-icons li {
+    display: block;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 10px 0;
+    line-height: 21px;
+    vertical-align: baseline;
+    background: none;
+}
+
+[class^="icon-"], [class*=" icon-"]{
+    background: none;
+}
+
+/* Testimonial Comic */
+.testimonial p{
+    line-height: 1.4em;
+}
+.testimonial blockquote{
+	font-style: normal!important;
+    line-height: 1.3em;
+    padding: 0px;
+}
+
+.testimonial.testimonial-comic{
+    border:0px;
+    margin: 25px 0px;
+    float: left;
+    background: url("../images/testimonials-blockquote.png") no-repeat scroll 22px 35px transparent;
+}
+.content .testimonial.testimonial-comic blockquote{ background-image: none}
+.testimonial.testimonial-comic .testimonial-box{
+    border: 1px solid #e6e4e4;
+    padding: 30px 28px 38px 55px; }
+
+.testimonial.testimonial-comic .testimonial-text{
+    padding:0px;
+    margin: 0px;
+    min-height: 0px;
+}
+.testimonial.testimonial-comic .testimonial-text p:after{
+    content: " ";
+    background: url("../images/testimonials-blockquote-bottom.png") no-repeat scroll 0px 0px transparent;
+    display: block;
+    float: right;
+    width: 22px;
+    height: 21px;
+    margin-top: 5px;
+}
+.testimonial.testimonial-comic .testimonial-arrow{
+    background: url("../images/testimonial-arrow.png") no-repeat scroll 0px 0px transparent;
+    width: 17px;
+    height: 10px;
+    margin-bottom: 10px;
+    margin-left: 45px;
+    margin-top: -1px;
+
+}
+.testimonial.testimonial-comic .thumbnail-comic{
+    width:100px;
+    float:left;
+    margin-left: 15px;
+}
+.testimonial.testimonial-comic .testimonial-meta{
+    min-height: 50px;
+}
+.testimonial.testimonial-comic .testimonial-info{
+    float:left;
+    text-align:left;
+    min-height: 50px;
+}
+.testimonial.testimonial-comic .testimonial-site{
+    clear: both;
+}
+.testimonial.testimonial-comic .testimonial-name, .testimonial.testimonial-comic .testimonial-name p.name, .testimonial.testimonial-comic .testimonial-name a{
+    float:left;
+    text-align:left;
+    padding: 0px;
+}
+.testimonial.testimonial-comic .testimonial-name.nothumb { margin-top:10px }
+.testimonial.testimonial-comic .thumbnail-comic img {
+    border-radius:75px;
+}
+
+/* twitter */
+.last-tweets-widget ul li {
+    padding: 10px 0 10px 40px;
+}
+
+/* Services */
+.services p{
+	text-align: left;
+	line-height: 22px;
+}
+
+.section-services-bandw .service-wrapper {
+	border: 1px solid transparent;
+	-moz-box-shadow: 0;
+	-webkit-box-shadow: 0;
+	box-shadow: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	position: relative;
+	text-align: center;
+	-webkit-transition: all ease-in-out .5s;
+	-moz-transition: all ease-in-out .5s;
+	-o-transition: all ease-in-out .5s;
+	transition: all ease-in-out .5s;
+}
+
+.section-services-bandw .service-wrapper:hover {
+	/*border: 1px solid #ffd4a0;*/
+	/*border-top-width: 14px;*/
+}
+
+.section-services-bandw .service-wrapper .service {
+	padding-bottom: 22px;
+	position: relative;
+}
+
+.section-services-bandw .service-wrapper .service h4 a {
+	color: #302e2e;
+	font-family: "Bree Serif", serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21px;
+	text-transform: uppercase;
+}
+
+.section-services-bandw .service-wrapper:hover .service h4 a {
+	color: #302e2e;
+}
+
+.section-services-bandw .service-wrapper .service .image-wrapper {
+	position: relative;
+	text-align: center;
+	margin: 26px auto 28px;
+}
+
+.section-services-bandw .service-wrapper .service .image-wrapper a.bwWrapper {
+	display:inline-block;
+	position: relative;
+}
+.section-services-bandw .service-wrapper.span2 .service .image-wrapper a.bwWrapper,
+.section-services-bandw .service-wrapper.span1 .service .image-wrapper a.bwWrapper{
+	width: 100%;
+}
+
+.section-services-bandw .service-wrapper .read-more {
+	text-align: center;
+	margin-top: 25px;
+}
+
+.section .title { margin-bottom: 5px;  font-size: 18px; line-height: 30px; border-bottom: 1px solid #ccc; }
+.section .description { margin-top: 10px; margin-bottom: 5px;}
+.section.services > img { margin-top: -8px; margin-right: 10px;}
+.section .services-row { margin-top: 0px;}
+
+
+/* ===== PRODUCTS CATEGORIES ===== */
+.woocommerce .show-category ul.products li.product-category.first { clear: left; }
+.woocommerce .show-category ul.products li.product-category a { display: block; position: relative; padding:4px; }
+.woocommerce .show-category ul.products li.product-category a img { width: auto; }
+.woocommerce .show-category ul.products li.product-category h3 { text-transform: uppercase; text-align: center; font-size: 13px; }
+
+.woocommerce .show-category.numbers-no ul.products li.product h3 .count,
+.woocommerce .show-category.numbers-no ul.products li.product-category h3 .count{ display: none; }
+.woocommerce .show-category.numbers-yes ul.products li.product h3 .count,
+.woocommerce .show-category.numbers-yes ul.products li.product-category h3 .count { display: inline; }
+.woocommerce .show-category.transparent ul.products li.product-category img {
+    margin: 0;
+    opacity: 1 !important;
+    transition: opacity 1s;
+    -moz-transition: opacity 1s; /* Firefox 4 */
+    -webkit-transition: opacity 1s; /* Safari and Chrome */
+    -o-transition: opacity 1s; /* Opera */
+}
+
+.woocommerce .show-category.transparent ul.products li.product-category h3 { background-color: rgba(255,255,255, 0.8) !important; bottom: -7px; left: 30px; right: 30px; height: auto; line-height: 40px; margin-top: -40px; position: absolute; }
+#ie8 .woocommerce .show-category.transparent ul.products li.product-category h3 { background-color: #ffffff !important; }
+.woocommerce .show-category ul.products li.product-category {
+    border: 1px solid #dfdbdb;
+    text-align:center;
+    box-sizing: border-box;
+}
+.woocommerce .show-category ul.products li.product-category:hover {
+    border-color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+@media (min-width:1200px) { }
+@media (min-width: 980px) and (max-width: 1199px) { }
+@media (max-width: 979px) { }
+@media (min-width: 768px) and (max-width: 979px) { }
+@media (max-width: 767px) { }

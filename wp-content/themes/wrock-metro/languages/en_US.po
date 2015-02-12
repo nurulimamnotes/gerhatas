@@ -1,0 +1,857 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wrock Metro\n"
+"POT-Creation-Date: 2014-09-22 23:09+0530\n"
+"PO-Revision-Date: 2014-09-22 23:09+0530\n"
+"Last-Translator: Insertcart <admin@insertcart.com>\n"
+"Language-Team: Insertcart <admin@insertcart.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9 archive.php:31 image.php:92 index.php:14 page.php:28
+#: search.php:16 single.php:30
+msgid "404 Error&#58; Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"Sorry, but the page you are trying to reach is unavailable or does not exist."
+msgstr ""
+
+#: 404.php:13
+msgid "You may interested with this"
+msgstr ""
+
+#: archive.php:14
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:31 comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:32 comments.php:49
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:33 comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:79
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:80
+msgid "Navigation"
+msgstr ""
+
+#: functions.php:108
+#, php-format
+msgid "%2$s  %4$s"
+msgstr ""
+
+#: functions.php:118
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:156
+msgid "Sidebar Right"
+msgstr ""
+
+#: functions.php:163
+msgid "Sidebar left"
+msgstr ""
+
+#: functions.php:170
+msgid "Bottom Menu 1"
+msgstr ""
+
+#: functions.php:178
+msgid "Bottom Menu 2"
+msgstr ""
+
+#: functions.php:186
+msgid "Bottom Menu 3"
+msgstr ""
+
+#: functions.php:194
+msgid "Bottom Menu 4"
+msgstr ""
+
+#: functions.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions/options-framework.php:179
+msgid "Options"
+msgstr ""
+
+#: functions/options-framework.php:181
+msgid "http://www.wrock.org/wrock-metro"
+msgstr ""
+
+#: functions/options-framework.php:196
+#: inc/includes/class-options-framework-admin.php:185
+msgid "Save Options"
+msgstr ""
+
+#: functions/options-framework.php:197
+#: inc/includes/class-options-framework-admin.php:186
+msgid "Restore Defaults"
+msgstr ""
+
+#: functions/options-medialibrary-uploader.php:87
+#: inc/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: functions/options-medialibrary-uploader.php:162
+msgid "Gallery"
+msgstr ""
+
+#: functions/options-medialibrary-uploader.php:162
+msgid "Previously Uploaded"
+msgstr ""
+
+#: functions/theme-options.php:57
+msgid "General Settings"
+msgstr ""
+
+#: functions/theme-options.php:60 options.php:115
+msgid "Custom Favicon URL"
+msgstr ""
+
+#: functions/theme-options.php:65
+msgid "Latest Posts"
+msgstr ""
+
+#: functions/theme-options.php:70 options.php:127
+msgid "Show Author Profile"
+msgstr ""
+
+#: functions/theme-options.php:79 options.php:225
+msgid "Ads Management"
+msgstr ""
+
+#: functions/theme-options.php:87
+msgid "Ads code Below Main Navigation."
+msgstr ""
+
+#: functions/theme-options.php:92 options.php:234
+msgid "AD Code For Single Post"
+msgstr ""
+
+#: functions/theme-options.php:97 options.php:240
+msgid "AD Code For Footer"
+msgstr ""
+
+#: functions/theme-options.php:105 functions/theme-options.php:107
+#: options.php:218
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/theme-options.php:113 options.php:148
+msgid "Social Media"
+msgstr ""
+
+#: functions/theme-options.php:116
+msgid "Show Social Follow ICONs"
+msgstr ""
+
+#: functions/theme-options.php:121
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/theme-options.php:126
+msgid "Twitter URL"
+msgstr ""
+
+#: functions/theme-options.php:131 options.php:181
+msgid "RSS Feed URL"
+msgstr ""
+
+#: functions/theme-options.php:136 options.php:175
+msgid "Google+ URL"
+msgstr ""
+
+#: functions/theme-options.php:141 options.php:187
+msgid "Linked In URL"
+msgstr ""
+
+#: functions/theme-options.php:146
+msgid "YouTube In URL"
+msgstr ""
+
+#: functions/theme-options.php:151 options.php:193
+msgid "Pinterest In URL"
+msgstr ""
+
+#: functions/theme-options.php:156 options.php:205
+msgid "Stumbleupon In URL"
+msgstr ""
+
+#: functions/theme-options.php:161
+msgid "Instagram In URL"
+msgstr ""
+
+#: functions/theme-options.php:166
+msgid "email In URL"
+msgstr ""
+
+#: image.php:11
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: image.php:22
+msgid "Edit"
+msgstr ""
+
+#: image.php:67 page.php:14 single.php:13
+msgid "Pages:"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:90
+#: inc/includes/class-options-framework-admin.php:91 includes/installs.php:18
+msgid "Theme Options"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:186
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:217
+msgid "Default options restored."
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:271
+msgid "Options saved."
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:66
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:68
+#: inc/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:253
+msgid "No Repeat"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:254
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:255
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:256
+msgid "Repeat All"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:269
+msgid "Top Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:270
+msgid "Top Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:271
+msgid "Top Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:272
+msgid "Middle Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:273
+msgid "Middle Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:274
+msgid "Middle Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:275
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:276
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:277
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:290
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:291
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:365
+msgid "Normal"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:366
+msgid "Italic"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:367
+msgid "Bold"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:368
+msgid "Bold Italic"
+msgstr ""
+
+#: includes/adfun.php:22
+msgid "Copyright &#169;"
+msgstr ""
+
+#: includes/adfun.php:22
+msgid "http://www.wrock.org/wrock-metro/"
+msgstr ""
+
+#: includes/adfun.php:22
+msgid "Wrock Metro"
+msgstr ""
+
+#: includes/adfun.php:22
+#, php-format
+msgid "Wrock Metro %s"
+msgstr ""
+
+#: includes/adfun.php:22
+msgid "Powered by"
+msgstr ""
+
+#: includes/adfun.php:22
+msgid "WordPress"
+msgstr ""
+
+#: includes/adfun.php:24
+msgid "&#8593;"
+msgstr ""
+
+#: includes/author.php:2
+msgid "About"
+msgstr ""
+
+#: includes/files/main.php:47
+msgid "You Should Try Our Other Themes Also"
+msgstr ""
+
+#: includes/installs.php:12
+#, php-format
+msgid "Settings saved and %s activated successfully."
+msgstr ""
+
+#: includes/installs.php:14
+#, php-format
+msgid "%s activated successfully."
+msgstr ""
+
+#: includes/installs.php:16
+msgid "Visit site"
+msgstr ""
+
+#: includes/installs.php:19
+msgid "Help Forum"
+msgstr ""
+
+#: includes/ltposts.php:1
+msgid "Latest"
+msgstr ""
+
+#: includes/post.php:8 includes/post.php:13
+msgid "Read More.."
+msgstr ""
+
+#: includes/postmeta.php:3
+msgid "No Comment"
+msgstr ""
+
+#: includes/postmeta.php:3
+msgid "1 Comment"
+msgstr ""
+
+#: includes/postmeta.php:3
+msgid "% Comments"
+msgstr ""
+
+#: options.php:24
+msgid "3"
+msgstr ""
+
+#: options.php:25
+msgid "5"
+msgstr ""
+
+#: options.php:26
+msgid "6"
+msgstr ""
+
+#: options.php:27
+msgid "8"
+msgstr ""
+
+#: options.php:28
+msgid "10"
+msgstr ""
+
+#: options.php:33
+msgid "French Toast"
+msgstr ""
+
+#: options.php:34
+msgid "Pancake"
+msgstr ""
+
+#: options.php:35
+msgid "Omelette"
+msgstr ""
+
+#: options.php:36
+msgid "Crepe"
+msgstr ""
+
+#: options.php:37
+msgid "Waffle"
+msgstr ""
+
+#: options.php:96
+msgid "Upgrade to Premium Theme & Enable Full Features!"
+msgstr ""
+
+#: options.php:97
+msgid "SEO Optimized WordPress Theme."
+msgstr ""
+
+#: options.php:98
+msgid "More Slides for your slider."
+msgstr ""
+
+#: options.php:99
+msgid "Theme Customization help & Support Forum."
+msgstr ""
+
+#: options.php:100
+msgid "Page Speed Optimize for better result."
+msgstr ""
+
+#: options.php:101
+msgid "Color Customize of theme."
+msgstr ""
+
+#: options.php:102
+msgid "Custom Widgets and Functions."
+msgstr ""
+
+#: options.php:103
+msgid "Social Media Integration."
+msgstr ""
+
+#: options.php:104
+msgid "Responsive Website Design."
+msgstr ""
+
+#: options.php:105
+msgid "Different Website Layout to Select."
+msgstr ""
+
+#: options.php:106
+msgid "Many of Other customize feature for your blog or website."
+msgstr ""
+
+#: options.php:107
+msgid "http://www.insertcart.com/wrock-metro"
+msgstr ""
+
+#: options.php:107
+msgid "Upgrade Now"
+msgstr ""
+
+#: options.php:107
+msgid "http://forum.insertcart.com/"
+msgstr ""
+
+#: options.php:107
+msgid "Support Forum !"
+msgstr ""
+
+#: options.php:111
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:116
+msgid "Enter Favicon Image URL Specify a 16px x 16px image in .ico format ."
+msgstr ""
+
+#: options.php:121
+msgid "Upload Site Logo"
+msgstr ""
+
+#: options.php:122
+msgid ""
+"Upload Website Logo wide: 470px Height: 80px here. Note you can upload any "
+"size it will automatic resize ."
+msgstr ""
+
+#: options.php:128
+msgid "Check the box to show Author Profile Below the Post and Pages."
+msgstr ""
+
+#: options.php:134
+msgid "Show Latest Posts in Sidebar"
+msgstr ""
+
+#: options.php:135
+msgid "Show 5 Latest Posts with Thumbnail in Sidebar."
+msgstr ""
+
+#: options.php:140
+msgid "Show Search on top navigation"
+msgstr ""
+
+#: options.php:141
+msgid "Check or Uncheck Box to show or hide search"
+msgstr ""
+
+#: options.php:151
+msgid "Show share buttons on Top Navigation"
+msgstr ""
+
+#: options.php:152
+msgid "Check or uncheck Box to show and hide share buttons"
+msgstr ""
+
+#: options.php:157
+msgid "Facebook Link"
+msgstr ""
+
+#: options.php:158
+msgid "Enter your Facebook URL if you have one."
+msgstr ""
+
+#: options.php:163
+msgid "Twitter Follow Link"
+msgstr ""
+
+#: options.php:164
+msgid "Enter your Twitter URL if you have one."
+msgstr ""
+
+#: options.php:169
+msgid "YouTube Channel Link"
+msgstr ""
+
+#: options.php:170
+msgid "Enter your YouTube URL if you have one."
+msgstr ""
+
+#: options.php:176
+msgid "Enter your Google+ Link if you have one."
+msgstr ""
+
+#: options.php:182
+msgid "Enter your RSS Feed URL if you have one"
+msgstr ""
+
+#: options.php:188
+msgid "Enter your Linkedin URL if you have one."
+msgstr ""
+
+#: options.php:194
+msgid "Enter your Pinterest URL if you have one."
+msgstr ""
+
+#: options.php:199
+msgid "Email Address to Contact"
+msgstr ""
+
+#: options.php:200
+msgid "Enter your email address if you have one"
+msgstr ""
+
+#: options.php:206
+msgid "Enter your Stumbleupon  address if you have one"
+msgstr ""
+
+#: options.php:215
+msgid "Custom Styling"
+msgstr ""
+
+#: options.php:219
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: options.php:228
+msgid "Paste Ads code below navigation"
+msgstr ""
+
+#: options.php:229
+msgid "Activate Ads Space Below Navigation and put code in below test field."
+msgstr ""
+
+#: options.php:241
+msgid "Paste Ad Code for Footer Area."
+msgstr ""
+
+#: options.php:247
+msgid "Premium Features"
+msgstr ""
+
+#: options.php:256
+msgid "Popular Posts in Sidebar"
+msgstr ""
+
+#: options.php:257
+msgid "Display Popular Post Sidebar Widget."
+msgstr ""
+
+#: options.php:262
+msgid "Floating Share Buttons"
+msgstr ""
+
+#: options.php:263
+msgid "Display Floating Share widget with count."
+msgstr ""
+
+#: options.php:269
+msgid "Responsive Website Design"
+msgstr ""
+
+#: options.php:270
+msgid ""
+"Enable Responsive Design for you website to increase exprience on Mobile "
+"Devices"
+msgstr ""
+
+#: options.php:275
+msgid "Excerpt Length (Number of words display in post description)"
+msgstr ""
+
+#: options.php:276
+msgid "Number of words display in every post description Default is 45."
+msgstr ""
+
+#: options.php:283
+msgid "Home Icon from Top and Main Navigation"
+msgstr ""
+
+#: options.php:284
+msgid "Show or Hide Home Icon."
+msgstr ""
+
+#: options.php:293
+msgid "Change Link Color"
+msgstr ""
+
+#: options.php:294
+msgid "Select Links Color."
+msgstr ""
+
+#: options.php:300
+msgid "Change Link Hover Color."
+msgstr ""
+
+#: options.php:305
+msgid "Top Menu & Main Navigation Colors"
+msgstr ""
+
+#: options.php:306
+msgid "Top Menu Background Color."
+msgstr ""
+
+#: options.php:311
+msgid "Top Menu Hover Background Color."
+msgstr ""
+
+#: options.php:316
+msgid "Main Naigation Background."
+msgstr ""
+
+#: options.php:322
+msgid "Main Navigation hover Color."
+msgstr ""
+
+#: options.php:329
+msgid "Page Number Navigation Color Chnage "
+msgstr ""
+
+#: options.php:330
+msgid "Change Current Page Background."
+msgstr ""
+
+#: options.php:335
+msgid "Change background color of other pages."
+msgstr ""
+
+#: options.php:340
+msgid "Numbers text Color Change."
+msgstr ""
+
+#: options.php:346
+msgid "Sidebar Color Customize "
+msgstr ""
+
+#: options.php:347
+msgid "Change Sidebar 1 (left) heading background color."
+msgstr ""
+
+#: options.php:352
+msgid "Change Sidebar 2 (Right) heading background color."
+msgstr ""
+
+#: options.php:357
+msgid "Customize Theme Fonts"
+msgstr ""
+
+#: options.php:358
+msgid "Change <b>Body (Theme) Font</b> color and Size."
+msgstr ""
+
+#: options.php:363
+msgid "Change <b>H1 Posts and Pages Title </b>Font color or Size."
+msgstr ""
+
+#: options.php:368
+msgid "Footer Widget Area Settings"
+msgstr ""
+
+#: options.php:369
+msgid "Show or Hide Footer Widget Area."
+msgstr ""
+
+#: options.php:379
+msgid "Edit \"Read More\" Button"
+msgstr ""
+
+#: options.php:380
+msgid "Show or Hide \"Continue reading\" or read more Button  Button ."
+msgstr ""
+
+#: options.php:389
+msgid "Read More Button Color Change."
+msgstr ""
+
+#: options.php:415
+msgid "Google+ Publisher URL"
+msgstr ""
+
+#: options.php:416
+msgid ""
+"Paste Your Google Publisher URL https://plus.google.com/YOUR-GOOGLE+ID/posts."
+msgstr ""
+
+#: options.php:421
+msgid "Bing Site Verification"
+msgstr ""
+
+#: options.php:422
+msgid "Enter the ID only. It will be verified by Yahoo as well."
+msgstr ""
+
+#: options.php:427
+msgid "Google Site verification"
+msgstr ""
+
+#: options.php:428
+msgid "Enter your ID only."
+msgstr ""
+
+#: options.php:438
+msgid "Breadcrumbs Options"
+msgstr ""
+
+#: options.php:439
+msgid "Check Box to Enable or Disable Breadcrumbs."
+msgstr ""
+
+#: options.php:444
+msgid "Enable Post Meta Info."
+msgstr ""
+
+#: options.php:445
+msgid "Check Box to Show or Hide Tags "
+msgstr ""
+
+#: options.php:450
+msgid "Check Box to Show or Hide Comments "
+msgstr ""
+
+#: options.php:455
+msgid "Check Box to Show or Hide Categories "
+msgstr ""
+
+#: options.php:460
+msgid "Check Box to Show or Hide Author and date "
+msgstr ""
+
+#: options.php:466
+msgid "Next and Previous Post Link"
+msgstr ""
+
+#: options.php:467
+msgid "Show or Hide Next and Previous Post Link below every post."
+msgstr ""
+
+#: options.php:476
+msgid "Show or Hide Copy Right Text"
+msgstr ""
+
+#: options.php:477
+msgid "Show or Hide Copyright Text and Link."
+msgstr ""

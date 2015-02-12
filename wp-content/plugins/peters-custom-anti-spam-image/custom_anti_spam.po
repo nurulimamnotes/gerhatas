@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Peter's Custom Anti-Spam Image\n"
+"POT-Creation-Date: 2013-03-30 12:09-0800\n"
+"PO-Revision-Date: 2013-03-30 12:09-0800\n"
+"Last-Translator: \n"
+"Language-Team: theblog.ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom_anti_spam.php:97 custom_anti_spam.php:239
+msgid "* * * INVALID * * *"
+msgstr ""
+
+#: custom_anti_spam.php:113
+msgid "That anti-spam number is no longer valid."
+msgstr ""
+
+#: custom_anti_spam.php:245
+msgid "Cannot initialize new GD image stream"
+msgstr ""
+
+#: custom_anti_spam.php:348
+msgid ""
+"To prove you're a person (not a spam script), type the security word shown "
+"in the picture."
+msgstr ""
+
+#: custom_anti_spam.php:351
+msgid "Click on the picture to hear an audio file of the word."
+msgstr ""
+
+#: custom_anti_spam.php:420
+msgid "Anti-spam word: (Required)"
+msgstr ""
+
+#: custom_anti_spam.php:434 custom_anti_spam.php:1059
+msgid "Click to hear an audio file of the anti-spam word"
+msgstr ""
+
+#: custom_anti_spam.php:441 custom_anti_spam.php:1053
+#: custom_anti_spam.php:1062
+msgid "Anti-spam image"
+msgstr ""
+
+#: custom_anti_spam.php:569
+msgid ""
+"Error: The anti-spam word is invalid. Please report this error to the "
+"webmaster. Go back and refresh the page to re-submit your comment."
+msgstr ""
+
+#: custom_anti_spam.php:572
+msgid ""
+"Copy your comment in case this site forces a page reload whenever you press "
+"the Back button:"
+msgstr ""
+
+#: custom_anti_spam.php:586 custom_anti_spam.php:1099
+msgid "Error: Please enter the anti-spam word."
+msgstr ""
+
+#: custom_anti_spam.php:594
+msgid ""
+"Error: Please enter the correct anti-spam word. Press the back button and "
+"try again."
+msgstr ""
+
+#: custom_anti_spam.php:674
+msgid "Settings updated."
+msgstr ""
+
+#: custom_anti_spam.php:1109
+msgid "ERROR: The anti-spam word is no longer valid."
+msgstr ""
+
+#: custom_anti_spam.php:1123
+msgid "ERROR: Please enter the correct anti-spam word."
+msgstr ""
+
+#: custom_anti_spam.php:1142
+msgid "ERROR: That e-mail address has been blocked."
+msgstr ""

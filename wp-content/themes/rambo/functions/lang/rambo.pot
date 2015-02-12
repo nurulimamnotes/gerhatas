@@ -1,0 +1,1038 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rambo\n"
+"POT-Creation-Date: 2014-11-12 18:29+0530\n"
+"PO-Revision-Date: 2014-11-12 19:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wordpress_lite\\wp-content\\themes"
+"\\rambo-lite\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wordpress_lite\\wp-content\\themes"
+"\\rambo-lite\n"
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/404.php:7
+msgid "Unfortunately, the page you tried accessing could not be retrieved. "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/404.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/archive.php:22
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/author.php:22
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/category.php:22
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/index.php:22
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/search.php:18
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/tag.php:22
+msgid "Leave a comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/archive.php:23
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/author.php:23
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/category.php:23
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/index.php:23
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/search.php:19
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/single.php:29
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/tag.php:23
+msgid "By"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/archive.php:25
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/author.php:25
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/category.php:25
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/fullwidth.php:26
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/index.php:25
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/page.php:25
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/single.php:31
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/tag.php:25
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/archive.php:30
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/author.php:30
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/category.php:30
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/index.php:30
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/tag.php:30
+msgid "Tags:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:17
+msgid "Daily Archives: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:19
+msgid "Monthly Archives: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:21
+msgid "Yearly Archives: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:23
+msgid "Category Archives: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:25
+msgid "Tag Archives: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:27
+msgid "Author Archives:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:29
+msgid "Oops Sorry,No Page Found"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:32
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/banner-strip.php:36
+msgid "Blog Archives"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:11
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:17
+msgid "Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:21
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:22
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:23
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:34
+msgid "You must be"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:34
+msgid "to post a comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:39
+msgid "Name"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:41
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:42
+msgid "Website"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:55
+msgid "Logged in as "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:55
+msgid " Log out?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:57
+msgid "Post Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/comments.php:60
+msgid "Leave a Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/footer.php:30
+msgid "Powered By "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/footer.php:30
+msgid "WordPress"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions.php:36
+msgid "Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/index-banner.php:19
+msgid "Theme Feature Goes Here !"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/index-banner.php:20
+msgid ""
+"This is Dummy Text. This is Dummy Text. This is Dummy Text.  I repeat.. This "
+"is Dummy Text."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/page.php:26
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/single.php:32
+msgid "Pages:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/search.php:25
+msgid "Nothing Found"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/search.php:27
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/single.php:28
+msgid "No comments yet"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/single.php:28
+msgid "10 comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/single.php:28
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/single.php:28
+msgid "comments-link"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/single.php:28
+msgid "Comments are Disabled"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:29
+msgid "Theme Feature Goes Here!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:30
+msgid ""
+"Rambo makes content easy to view on any device with any resolution. You may "
+"check this with resizing. Fully Responsive Theme Amazing Design."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:35
+msgid "Service One"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:36
+msgid ""
+"This is service one, reliable to user and comfortable to operate. You can "
+"easily manage all sub services using one instance.  "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:39
+msgid "Service Two"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:40
+msgid ""
+"This is service two, reliable to user and comfortable to operate. You can "
+"easily manage all sub services using one instance."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:43
+msgid "Service Three"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:44
+msgid ""
+"This is service Three, reliable to user and comfortable to operate. You can "
+"easily manage all sub services using one instance."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:47
+msgid "Service Four"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:48
+msgid ""
+"This is service Four, reliable to user and comfortable to operate. You can "
+"easily manage all sub services using one instance."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:52
+msgid "&copy;2014&nbsp;ALL Rights Reserved"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:53
+msgid "Designed By"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:54
+msgid "Webriti"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:67
+msgid "Featured Portfolio Projects"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:68
+msgid ""
+"Maecenas sit amet tincidunt elit. Pellentesque habitant morbi tristique "
+"senectus et netus et Nulla facilisi."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:70
+msgid "Product one"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:71
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:75
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:79
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:83
+msgid ""
+"A set of pieces of creative work collected to be shown to potential "
+"customers or employers; \"the artist had put together a portfolio of his work"
+"\";"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:74
+msgid "Product two"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:78
+msgid "Product Three"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/theme_setup_data.php:82
+msgid "Product Four"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/commentbox/comment-function.php:21
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/commentbox/comment-function.php:36
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:7
+msgid "Rambo"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:9
+msgid "Support Desk"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:10
+msgid "Theme Documentation"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:19
+msgid "Home Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:20
+msgid "Quick Start"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:21
+msgid "Banner Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:23
+msgid "Service Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:25
+msgid "Projects Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:30
+msgid "Footer Customization"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:33
+msgid "Social media links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_option_pannel.php:36
+msgid "Upgrade To Premium"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:20
+msgid "Quality Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:22
+msgid ""
+"Quality is a Responsive WordPress Theme. It is ideal for Corporate Sector , "
+"Business Website.Very Cleaned Design."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:23
+msgid ""
+"Quality is designed with Readability Flexibility in mind. It is suitable for "
+"Business website and other corporate website owner."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:24
+msgid "You can build an effective online presence for your business"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:26
+msgid "Buy Quality Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:27
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:45
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:63
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:82
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:101
+msgid "View Demo"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:28
+msgid "New Theme"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:38
+msgid "Health Centre Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:40
+msgid ""
+"Health Centre is a Responsive WordPress Theme. It is ideal for Gym/Health "
+"Healing Centre Owner.Very Cleaned Design."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:41
+msgid ""
+"Health Centre is designed with Readability Flexibility in mind. It is "
+"suitable for Dentists, Doctors , Surgeons, hospitals and other type of "
+"Medical Websites."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:42
+msgid "Build an effective online presence with HealthCentre"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:44
+msgid "Buy Health Centre Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:56
+msgid "Rambo Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:58
+msgid ""
+"Rambo is a Responsive Multi-Purpose Wordpress Theme. It is ideal for "
+"creating a corporate website. It boasts of a highy functional Home Page ."
+"Very Cleaned Design."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:59
+msgid ""
+"Rambo is designed with Readability Flexibility in mind. Customize it to your "
+"hearts content with Sortable Project Areas, Services Areas and Call Out "
+"Section.Use these great features to build an effective online presence for "
+"your business."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:60
+msgid ""
+"All of our Theme contain Responsive frameworks that adapt to Mobile Devices."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:62
+msgid "Buy Rambo Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:74
+msgid "Busiprof Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:76
+msgid ""
+"A Beautiful and FLexible Responsive Businees Theme. It is ideal for creating "
+"a corporate website. It boasts of a highy functional Home Page and "
+"Widgetized Footer. Build an effective online presence with BusiProf."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:77
+msgid ""
+"Busiprof is designed with Flexibility in mind. Customize it to your hearts "
+"content with Sortable Project Areas, Services Areas and Testimonial "
+"Section. . Use these great features to build an effective online presence "
+"for your business"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:78
+msgid ""
+"The majority of our themes contain responsive frameworks that adapt to "
+"Mobile Devices."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:81
+msgid "Buy busiprof Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:93
+msgid "Spasalon Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:95
+msgid ""
+"A responsive theme for SPA SALON and BEAUTY SALON type of business that uses "
+"multiple nav menus, Right-sidebar, Featured Slider and Beautifully designed "
+"home page all manage via option panel."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:96
+msgid ""
+"Spasalon is designed with content flexibility and Intuitive features in "
+"mind. Use these great core features to grow your business."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:97
+msgid ""
+"The majority of our themes contain responsive frameworks that mold perfectly "
+"to fit all your mobile and Apple devices."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:98
+msgid ""
+"A responsive theme for SPA SALON and BEAUTY SALON type of business that uses "
+"multiple nav menus, Right-sidebar, Featured Slider."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/webriti_theme.php:100
+msgid "Buy Spasalon Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:2
+msgid "Footer Customization settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:44
+msgid "Enable Footer widgets"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:45
+msgid "Enable Footer widgets in all pages."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:48
+msgid "Copy Rights Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:51
+msgid "Enter custom copy rights text."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:55
+msgid "Designed By Head"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:58
+msgid "Enter Privacy Policy Text."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:62
+msgid "Designed By Name"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:65
+msgid "Enter Name for Company/Website."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:69
+msgid "Designed By Link"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:72
+msgid "Enter URL for your website."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:81
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:79
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:100
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:69
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:159
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:137
+msgid "Options data successfully Saved"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_customization_settings.php:82
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:80
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:101
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:70
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:160
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:138
+msgid "Options data successfully reset"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:2
+msgid "Social media Links settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:40
+msgid "Enable Social media in footer "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:41
+msgid "Enable Social media icon in footer section."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:44
+msgid "Twitter Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:47
+msgid "Enter twitter link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:51
+msgid "Linkedin Links:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:54
+msgid "Enter linkedin link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:59
+msgid "Facebook Links:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:62
+msgid "Enter facebook link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:67
+msgid "Google Plus Links:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/footer_social_media_settings.php:70
+msgid "Enter google plus link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:46
+msgid "Quick Start Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:50
+msgid "Enable Home Page ?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:50
+msgid "Check this box for enabling the Custom Home Page of the theme."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:51
+msgid "Enable Home on front page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:55
+msgid "Custom Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:56
+msgid "Logo must be in 150 X 50 px"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:65
+msgid "Logo Height"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:66
+msgid "Logo height must be less then 80px"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:71
+msgid "Logo Width"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:72
+msgid "Logo width must be less then 200 px"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:77
+msgid "Text Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:78
+msgid "Enable text-based Site Title and Tagline. Setup title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:78
+msgid "tagline in"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:78
+msgid "General Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:81
+msgid "Custom Favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:82
+msgid "Custom Favicon Must be in 25 X 25 px"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:91
+msgid "Custom css"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/header_page_settings.php:93
+msgid "Paste your custom css code and change your layout without code editing."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:2
+msgid "Home Banner Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:40
+msgid "Banner in Front page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:41
+msgid "Enable Banner on front page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:44
+msgid "Banner Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:45
+msgid "Banner Image must be in 1600 X 400 px"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:54
+msgid "Banner Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:56
+msgid "Enter Banner title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:59
+msgid "Banner Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/home_page_banner_settings.php:61
+msgid "Enter Banner description text less then 150 character ."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:2
+msgid "Projects Section settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:72
+msgid "Enable Home Project Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:73
+msgid "Enable Projects section in fornt page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:76
+msgid "Home Project  Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:78
+msgid "Project Section Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:80
+msgid "Enter Project Section Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:82
+msgid "Project Section Tagline"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:82
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:93
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:110
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:127
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:144
+msgid "Enter Project Thumbnail"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:84
+msgid "Enter Project Section Tagline"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:87
+msgid "Home Project One"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:89
+msgid "Project One Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:91
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:108
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:125
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:142
+msgid "Enter Project Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:93
+msgid "Project One Thumbnail"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:99
+msgid "Project One Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:101
+msgid "Enter home Project One description text less then 150 character ."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:104
+msgid "Home Project Two"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:106
+msgid "Project Two Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:110
+msgid "Project Two Thumbnail"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:116
+msgid "Project Two Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:118
+msgid "Enter home Project Two description text less then 150 character ."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:121
+msgid "Home Project Three"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:123
+msgid "Project Three Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:127
+msgid "Project Three Thumbnail"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:133
+msgid "Project Three Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:135
+msgid "Enter home Project Three description text less then 150 character ."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:138
+msgid "Home Project Four"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:140
+msgid "Project Four Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:144
+msgid "Project Four Thumbnail"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:150
+msgid "Project Four Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/projects_page.php:152
+msgid "Enter home Project Four description text less then 150 character ."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:2
+msgid "Service Section settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:65
+msgid "Enable Home Service Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:66
+msgid "Enable service section in fornt page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:70
+msgid "Home Service One "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:72
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:88
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:72
+msgid "Click here to font awesome icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:74
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:90
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:106
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:121
+msgid "Enter service fontawesome icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:76
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:92
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:108
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:123
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:78
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:94
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:125
+msgid "Enter home service title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:80
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:96
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:112
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:127
+msgid "Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:82
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:98
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:114
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:129
+msgid "Enter home service description text less then 150 character ."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:86
+msgid "home service two "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:102
+msgid "home service three "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:104
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:119
+msgid "Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:110
+msgid "Enter home servicetitle"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/service_page_settings.php:117
+msgid "home service fourth "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:87
+msgid "Sr. No."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:88
+msgid "Features"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:89
+msgid "Free"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:90
+msgid "Premium"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:95
+msgid "Home Page Sections "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:101
+msgid "Responsive Home Page Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:106
+msgid "In-Built Color Schemes "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:112
+msgid "Blog Layout Variations"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:118
+msgid "Page Templates"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:123
+msgid "About Us Template, Portfolio Template, Services Template...   "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:129
+msgid "Custom Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:135
+msgid "In-Built Contact Form"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:141
+msgid "Custom Widgets,Shortcodes.."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:147
+msgid "Layout Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:148
+msgid "Wide"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:149
+msgid "Wide And Boxed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:153
+msgid "Theme Support "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:154
+msgid "Via Wordpress Forums"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/theme_options/pages/UpgradeToPro.php:155
+msgid "Private Forums with Email Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/widget/custom-sidebar.php:15
+msgid "Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/widget/custom-sidebar.php:17
+msgid "The primary widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/widget/custom-sidebar.php:25
+msgid "Footer Widget Area"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress_lite\wp-content\themes\rambo-lite/functions/widget/custom-sidebar.php:27
+msgid "footer widget area"
+msgstr ""

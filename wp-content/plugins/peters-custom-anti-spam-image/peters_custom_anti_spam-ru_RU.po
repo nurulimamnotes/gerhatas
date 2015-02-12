@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Peter's Custom Anti-Spam Image\n"
+"POT-Creation-Date: 2014-02-08 19:11-0800\n"
+"PO-Revision-Date: 2014-02-08 19:11-0800\n"
+"Last-Translator: koc\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom_anti_spam.php:99 custom_anti_spam.php:241
+msgid "* * * INVALID * * *"
+msgstr "* * * ОШИБКА * * *"
+
+#: custom_anti_spam.php:115
+msgid "That anti-spam number is no longer valid."
+msgstr "Этот антиспам-номер больше не действителен."
+
+#: custom_anti_spam.php:247
+msgid "Cannot initialize new GD image stream"
+msgstr "Не могу инициализировать новый GD image stream"
+
+#: custom_anti_spam.php:350
+msgid ""
+"To prove you're a person (not a spam script), type the security word shown "
+"in the picture."
+msgstr ""
+"Чтобы убедиться, что вы человек (а не спам-бот), введите слово, написанное "
+"на картинке."
+
+#: custom_anti_spam.php:353
+msgid "Click on the picture to hear an audio file of the word."
+msgstr "Кликните по картинке, чтобы услышать антиспам-слово."
+
+#: custom_anti_spam.php:422
+msgid "Anti-spam word: (Required)"
+msgstr "Антиспам. Введите слово с картинки (обязательно)"
+
+#: custom_anti_spam.php:436 custom_anti_spam.php:1069
+msgid "Click to hear an audio file of the anti-spam word"
+msgstr "Нажмите, чтобы услышать антиспам-слово"
+
+#: custom_anti_spam.php:448 custom_anti_spam.php:1063
+#: custom_anti_spam.php:1072
+msgid "Anti-spam image"
+msgstr "Антиспам-картинка"
+
+#: custom_anti_spam.php:576
+msgid ""
+"Error: The anti-spam word is invalid. Please report this error to the "
+"webmaster. Go back and refresh the page to re-submit your comment."
+msgstr ""
+"Ошибка: Не верная антиспам-картинка. Пожалуйста, сообщите об этом владельцу "
+"сайта. Вернитесь назад, обновите страницу и повторите ваш комментарий."
+
+#: custom_anti_spam.php:579
+msgid ""
+"Copy your comment in case this site forces a page reload whenever you press "
+"the Back button:"
+msgstr ""
+"На всякий случай скопируйте ваш комментарий, если ваш обозреватель "
+"перечитывает страницу при возврате назад:"
+
+#: custom_anti_spam.php:593 custom_anti_spam.php:1109
+msgid "Error: Please enter the anti-spam word."
+msgstr "Ошибка: Пожалуйста, введите слово с антиспам-картинки."
+
+#: custom_anti_spam.php:601
+msgid ""
+"Error: Please enter the correct anti-spam word. Press the back button and "
+"try again."
+msgstr ""
+"Ошибка: Вы не верно ввели слово с антиспам-картинки. Вернитесь назад и "
+"повторите ввод."
+
+#: custom_anti_spam.php:684
+msgid "Settings updated."
+msgstr "Настройки обновлены."
+
+#: custom_anti_spam.php:1119
+msgid "ERROR: The anti-spam word is no longer valid."
+msgstr "Ошибка: Эта антиспам-картинка больше не действительна."
+
+#: custom_anti_spam.php:1133
+msgid "ERROR: Please enter the correct anti-spam word."
+msgstr "Ошибка: Вы не верно ввели слово с антиспам-картинки."
+
+#: custom_anti_spam.php:1152
+msgid "ERROR: That e-mail address has been blocked."
+msgstr "Ошибка: Этот e-mail адрес заблокирован."
